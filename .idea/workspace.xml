@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aad054be-e7f0-488f-980b-0ebd929289d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/craco.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/banner-control-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/banner-control-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/banner_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/friend_sprite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/mine_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/playbar_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/playlist_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/playpanel_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/progress_bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/radio_slide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/recommend-top-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/singer_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_button2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_footer_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_footer_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sprite_table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/wrap-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/constans.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/local-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/album-cover/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/album-cover/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app-footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app-footer/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app-header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app-header/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hover-lyric/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hover-lyric/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-modal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-modal/store/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-modal/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-modal/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/login-modal/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/songs-cover/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/songs-cover/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme-header-rcm/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/theme-header-rcm/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/top-ranking/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/top-ranking/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/album/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/artist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/djradio/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/ranking/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/ranking/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/hot-radio/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/hot-radio/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/hot-recommend/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/hot-recommend/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/new-album/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/new-album/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/recoomend-ranking/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/recoomend-ranking/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/settle-singer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/settle-singer/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/top-banner/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/top-banner/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/user-login/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns/user-login/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/store/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/store/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/c-pages/songs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/discover/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/friend/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/mine/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/player/app-player-bar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/player/app-player-bar/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/player/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/player/store/actionCreator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/player/store/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/player/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/player/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/player/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/recommend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/format-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/math-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/parse-lyric.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mJLx00RcHKCqTXiaiYmDN5xlyt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/discover/c-pages/recommend/c-cpns" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="F:\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\newCode\react\cloud-music\src\pages\discover\c-pages\recommend\c-cpns" />
+      <recent name="D:\newCode\react\cloud-music\src\pages\discover\c-pages\album" />
+      <recent name="D:\newCode\react\cloud-music\src\pages\discover\c-pages\artist" />
+      <recent name="D:\newCode\react\cloud-music\src\pages\discover\c-pages\djradio" />
+      <recent name="D:\newCode\react\cloud-music\src\pages\discover\c-pages\ranking" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\newCode\react\cloud-music\src\store" />
+      <recent name="D:\newCode\react\cloud-music\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad054be-e7f0-488f-980b-0ebd929289d0" name="Default Changelist" comment="" />
+      <created>1609206989526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609206989526</updated>
+      <workItem from="1609206991214" duration="10276000" />
+      <workItem from="1609222269503" duration="11929000" />
+      <workItem from="1609340751451" duration="12983000" />
+      <workItem from="1609424710793" duration="892000" />
+      <workItem from="1609483034443" duration="43099000" />
+      <workItem from="1609666055832" duration="7140000" />
+      <workItem from="1609723786404" duration="20335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/app-footer/index.js</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
